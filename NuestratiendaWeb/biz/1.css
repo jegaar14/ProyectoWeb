@@ -1,5 +1,5 @@
 body {
-background-color:#172029;
+background-color:##C0C0C0;
 }
 #container {			
 background-color:#171D29;
@@ -7,14 +7,17 @@ margn: 5px 3px 0px 0px;
 }
 #banner {
 height: 124px;
+
 background-color: #FEFEDC;
 background-image: url(picks/2.jpg);
+
 }
 .logobox{
 float:left;
 width: 163px;
 height: 122px;
-background-image: url(picks/5.jpg);
+background-image: url(picks/5_sergio.jpg);
+
 }
 .lbox{
 width: 150px;
@@ -43,7 +46,7 @@ background-color:#;
 #content {
 margin-top: 0px;
 margin-left: 164px;
-height: 100%;		
+height: 200px;		
 background-color:#fff;
 }
 blockquote{
@@ -153,4 +156,8 @@ padding: 5px;
 color:#fff;			
 background-color: #172029;
 background-image: url(picks/2.jpg);
+}
+h3.thank{
+color:#ffffff;
+	
 }
